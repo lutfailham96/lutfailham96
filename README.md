@@ -5,13 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfailham96" alt="lutfailham96" /></a> </p>
 
-- 📫 How to reach me **lutfailham96@gmail.com**
+<h3 align="left">📫 How to reach me</h3>
 
-<h3 align="left">My Old Repository:</h3>
-<a href="https://github.com/ccsysadmin" target="_blank">CC Sysadmin</a>
+- <a href="mailto:lutfailham96@gmail.com">Email</a>
+- <a href="https://t.me/+6281214676727">Telegram</a>
+
+<h3 align="left">My another Github:</h3>
+
+- <a href="https://github.com/ccsysadmin" target="_blank">CC Sysadmin</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/lutfailham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lutfailham" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lutfailham/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="lutfailham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
