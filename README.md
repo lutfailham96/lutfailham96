@@ -8,7 +8,7 @@
 <h3 align="left">📫 How to reach me</h3>
 
 - <a href="mailto:lutfailham96@gmail.com">Email</a>
-- <a href="https://t.me/+6281214676727">Telegram</a>
+- <a href="https://t.me/lutfailham">Telegram</a>
 
 <h3 align="left">My another Github:</h3>
 
@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lutfailham96&show_icons=true&locale=en" alt="lutfailham96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lutfailham96&" alt="lutfailham96" /></p>
+
+<p> <img src="https://github-readme-quotes.herokuapp.com/quote" /> </p>
