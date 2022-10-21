@@ -30,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lutfailham96&show_icons=true&locale=en" alt="lutfailham96" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lutfailham96&" alt="lutfailham96" /></p>
 
+<h3 align="left">Dynamic Quotes:</h3>
 <p> <img src="https://github-readme-quotes.herokuapp.com/quote" /> </p>
