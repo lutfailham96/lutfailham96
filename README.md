@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilham L.</h1>
 <h3 align="center">A passionate IT developer & electrical engineer from Indonesia</h3>
-<p> If you are interested in my skills and would like me to join on your team, please contact me via any of the platforms listed below, I will be very happy to work with you
-Currently, I'm only limited to remote freelance work
+<p> If you are interested in my skills and would like me to join on your team, please contact me via any of the platforms listed below, I will be very happy to work with you. Currently, I'm only limited to remote freelance work
 </p>
 <p> I'm currently learning: Golang, Rust, Cloud Architects </p>
 
