@@ -17,19 +17,16 @@ I am specialized to build server tools using Bash scripting and micro-service ap
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfailham96&column=7" alt="lutfailham96" /></a></p>
 
-<h3 align="left">How to reach me</h3>
-
-- <a href="mailto:lutfailham96@gmail.com">Email</a>
-- <a href="https://t.me/lutfailham">Telegram</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/lutfailham/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="lutfailham" height="30" width="40" /></a>
+<a href="https://fb.com/lutfailham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lutfailham" height="30" width="40" /></a>
+<a href="https://t.me/lutfailham" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" alt="lutfailham" height="30" width="30" /></a>
+</p>
 
 <h3 align="left">My another Github:</h3>
 
 - <a href="https://github.com/ccsysadmin" target="_blank">CC Sysadmin</a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/lutfailham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lutfailham" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lutfailham/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="lutfailham" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">My Profile Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lutfailham96&show_icons=true&locale=en&hide=blade,css,scss,html,sass,dockerfile,roff,vue&langs_count=8&layout=compact" alt="lutfailham96" /></p>
