@@ -17,13 +17,6 @@ I am specialized to build server tools using Bash scripting and micro-service ap
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfailham96&column=7" alt="lutfailham96" /></a></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lutfailham/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="lutfailham" height="30" width="40" /></a>
-<a href="https://fb.com/lutfailham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lutfailham" height="30" width="40" /></a>
-<a href="https://t.me/lutfailham" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" alt="lutfailham" height="30" width="30" /></a>
-</p>
-
 <h3 align="left">My another Github:</h3>
 
 - <a href="https://github.com/ccsysadmin" target="_blank">CC Sysadmin</a>
